@@ -1,0 +1,41 @@
+.containerSponsor{
+    text-align: center;
+    background-color: aqua;
+    
+}
+body{
+    background-color: darkcyan;
+}
+
+img {
+    vertical-align: middle;
+    width: inherit;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    -ms-interpolation-mode: bicubic;
+}
+p{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.containerSponsor1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+}
+
+.containerSponsor2{
+    /* padding-top: 30px; */
+    padding-bottom: 30px;
+    margin-left: 20px;
+
+}
+
+.containerSponsor3{
+    /* padding-top: 30px; */
+    padding-bottom: 30px;
+    margin-left: 20px;
+
+}
