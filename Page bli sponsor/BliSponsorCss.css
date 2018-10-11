@@ -1,11 +1,48 @@
-.containerBliSpons{
+.containerBliSpons {
     background-color: aqua;
 }
 
-.containerBliSpons h1{
+.containerBliSpons h1 {
     text-align: center;
 }
 
-.containerInfoSpons h1{
+.containerInfoSpons h1 {
     text-align: center;
+}
+
+.navbar-brand {
+    /* float: left;
+    height: 50px;
+    padding: 15px 15px; */
+    font-size: 30px;
+    line-height: 20px;
+}
+
+.navbar-nav {
+    width: 1390px;
+}
+
+.navbar-inverse {
+    background-color: black;
+}
+
+.container-fluid {
+    /* padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; */
+    margin-top: 12px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 86px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+.search-container {
+    float: right;
+    /* margin-left: 200px; */
+    margin-top: 10px;
 }

@@ -1,9 +1,10 @@
-.containerSponsor{
+.containerSponsor {
     text-align: center;
     background-color: aqua;
-    
+
 }
-body{
+
+body {
     background-color: darkcyan;
 }
 
@@ -15,27 +16,65 @@ img {
     image-rendering: pixelated;
     -ms-interpolation-mode: bicubic;
 }
-p{
+
+p {
     text-align: center;
     padding-top: 25px;
 }
 
-.containerSponsor1{
+.containerSponsor1 {
     padding-top: 30px;
     padding-bottom: 30px;
     margin-left: 20px;
 }
 
-.containerSponsor2{
+.containerSponsor2 {
     /* padding-top: 30px; */
     padding-bottom: 30px;
     margin-left: 20px;
 
 }
 
-.containerSponsor3{
+.containerSponsor3 {
     /* padding-top: 30px; */
     padding-bottom: 30px;
     margin-left: 20px;
 
+}
+
+.navbar-brand {
+    /* float: left;
+    height: 50px;
+    padding: 15px 15px; */
+    font-size: 30px;
+    line-height: 20px;
+}
+
+.navbar-nav {
+    width: 1390px;
+}
+
+.navbar-inverse {
+    background-color: black;
+}
+
+.container-fluid {
+    /* padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; */
+    margin-top: 12px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 86px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+.search-container {
+    float: right;
+    /* margin-left: 200px; */
+    margin-top: 10px;
 }
